@@ -10,3 +10,4 @@
 |4|[Detect cycle in an undirected graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) | [C++](./Codes/detect-cycle-in-an-undirected-graph.cpp)|Medium|
 |5|[Rotten Oranges](https://practice.geeksforgeeks.org/problems/rotten-oranges2536/1) | [C++](./Codes/Rotten_Oranges.cpp)|Medium|
 |6|[Bipartite Graph](https://practice.geeksforgeeks.org/problems/bipartite-graph/1) | [C++](./Codes/Bipartite_Graph.cpp)|Medium|
+|7|[Detect cycle in a directed graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/0) | [C++](./Codes/Detect_cycle_in_directed_graph.cpp)|Medium|
