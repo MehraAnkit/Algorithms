@@ -36,3 +36,47 @@ class Solution {
 
 //BFS CODE
 
+class Solution {
+    private:
+    vector<int> topoSort(int V, vector<int> adj[]) 
+	{
+	    // code here
+	    vector<int> vis(V, 0),sol;
+	    vector<int> ind(V, 0);
+	    
+	    for(int i=0;i<V;i++){
+	        for(int j=0;j<adj[i].size();j++){
+	            ind[adj[i][j]]++;
+	        }
+	    }
+	    queue<int> q;
+	    for(int i=0;i<V;i++){
+	        if(ind[i]==0){
+	            q.push(i);
+	        }
+	    }
+	    while(!q.empty()){
+	        int node=q.front();
+	        q.pop();
+	        sol.push_back(node);
+	        for(auto ele: adj[node]){
+	            ind[ele]--;
+	            if(ind[ele]==0){
+	                q.push(ele);
+	            }
+	        }
+	    }
+	    return sol;
+	}
+  public:
+    // Function to detect cycle in a directed graph.
+    bool isCyclic(int V, vector<int> adj[]) {
+        // code here
+        vector<int> vis(V, 0),temp;
+        temp=topoSort(V,adj);
+        if(temp.size()==V){
+            return false;
+        }
+        return true;
+    }
+};
