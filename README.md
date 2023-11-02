@@ -16,3 +16,4 @@
 |10|[Implementing Dijkstra Algorithm](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1) | [C++](./Codes/DijkstraAlgorithm.cpp)|Medium|
 |11|[Distance from the Source (Bellman-Ford Algorithm)](https://practice.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1) | [C++](./Codes/Bellman-FordAlgorithm.cpp)|Medium|
 |12|[Floyd Warshall](https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1) | [C++](./Codes/FloydWarshall.cpp)|Medium|
+|13|[Minimum Spanning Tree](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1) | [C++](./Codes/MinimumSpanningTree.cpp)|Medium|
