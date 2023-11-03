@@ -20,3 +20,4 @@
 |14|[Strongly Connected Components (Kosaraju's Algo)](https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1) | [C++](./Codes/kosaraju.cpp)|Medium|
 |15|[Bridge edge in a graph](https://practice.geeksforgeeks.org/problems/bridge-edge-in-graph/1) | [C++](./Codes/isBridge.cpp)|Medium|
 |16|[Articulation Point - I](https://practice.geeksforgeeks.org/problems/articulation-point-1/1) | [C++](./Codes/articulationPoints.cpp)|Hard|
+|17|[Alien Dictionary](https://practice.geeksforgeeks.org/problems/alien-dictionary/1) | [C++](./Codes/AlienDict.cpp)|Hard|
