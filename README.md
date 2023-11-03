@@ -17,3 +17,4 @@
 |11|[Distance from the Source (Bellman-Ford Algorithm)](https://practice.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1) | [C++](./Codes/Bellman-FordAlgorithm.cpp)|Medium|
 |12|[Floyd Warshall](https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1) | [C++](./Codes/FloydWarshall.cpp)|Medium|
 |13|[Minimum Spanning Tree](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1) | [C++](./Codes/MinimumSpanningTree.cpp)|Medium|
+|14|[Strongly Connected Components (Kosaraju's Algo)](https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1) | [C++](./Codes/kosaraju.cpp)|Medium|
