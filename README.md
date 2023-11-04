@@ -4,7 +4,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[BFS of graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | [C++](./Codes/BinaryTree/bfs.cpp)|Easy|
+|1|[Preorder Traversal](https://practice.geeksforgeeks.org/problems/preorder-traversal/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab) | [C++](./Codes/BinaryTree/PreorderTraversal.cpp)|Basic|
 
 ### Graph
 
