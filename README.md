@@ -11,6 +11,8 @@
 |5|[Inorder Traversal (Iterative)](https://practice.geeksforgeeks.org/problems/inorder-traversal-iterative/0) | [C++](./Codes/BinaryTree/inOrder1.cpp)|Medium|
 |6|[Postorder Traversal (Iterative)](https://practice.geeksforgeeks.org/problems/postorder-traversal-iterative/1) | [C++](./Codes/BinaryTree/postOrder1.cpp)|Medium|
 |7|[Level order traversal](https://practice.geeksforgeeks.org/problems/level-order-traversal/1) | [C++](./Codes/BinaryTree/levelOrder1.cpp)|Easy|
+|8|[Height of Binary Tree]([https://practice.geeksforgeeks.org/problems/level-order-traversal/1](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)) | [C++](./Codes/BinaryTree/heightBt.cpp)|Easy|
+
 
 
 ### Graph
