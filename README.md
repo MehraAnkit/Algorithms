@@ -5,6 +5,9 @@
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Preorder Traversal](https://practice.geeksforgeeks.org/problems/preorder-traversal/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab) | [C++](./Codes/BinaryTree/PreorderTraversal.cpp)|Basic|
+|2|[Inorder Traversal](https://practice.geeksforgeeks.org/problems/inorder-traversal/0) | [C++](./Codes/BinaryTree/inOrder.cpp)|Basic|
+|3|[Postorder Traversal](https://practice.geeksforgeeks.org/problems/postorder-traversal/1) | [C++](./Codes/BinaryTree/postOrder.cpp)|Basic|
+
 
 ### Graph
 
