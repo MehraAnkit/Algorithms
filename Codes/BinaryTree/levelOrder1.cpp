@@ -1,4 +1,4 @@
-* A binary tree Node
+/* A binary tree Node
 
 struct Node
 {
