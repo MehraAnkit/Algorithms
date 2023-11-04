@@ -11,7 +11,7 @@
 |5|[Inorder Traversal (Iterative)](https://practice.geeksforgeeks.org/problems/inorder-traversal-iterative/0) | [C++](./Codes/BinaryTree/inOrder1.cpp)|Medium|
 |6|[Postorder Traversal (Iterative)](https://practice.geeksforgeeks.org/problems/postorder-traversal-iterative/1) | [C++](./Codes/BinaryTree/postOrder1.cpp)|Medium|
 |7|[Level order traversal](https://practice.geeksforgeeks.org/problems/level-order-traversal/1) | [C++](./Codes/BinaryTree/levelOrder1.cpp)|Easy|
-|8|[Height of Binary Tree]([https://practice.geeksforgeeks.org/problems/level-order-traversal/1](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)) | [C++](./Codes/BinaryTree/heightBt.cpp)|Easy|
+|8|[Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab) | [C++](./Codes/BinaryTree/heightBt.cpp)|Easy|
 |9|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | [C++](./Codes/BinaryTree/isBalanced.cpp)|Easy|
 |10|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) | [C++](./Codes/BinaryTree/diameterOfBinaryTree.cpp)|Easy|
 |11|[Level order traversal in spiral form](https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab) | [C++](./Codes/BinaryTree/findSpiral.cpp)|Easy|
