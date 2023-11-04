@@ -14,6 +14,9 @@
 |8|[Height of Binary Tree]([https://practice.geeksforgeeks.org/problems/level-order-traversal/1](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)) | [C++](./Codes/BinaryTree/heightBt.cpp)|Easy|
 |9|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | [C++](./Codes/BinaryTree/isBalanced.cpp)|Easy|
 |10|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) | [C++](./Codes/BinaryTree/diameterOfBinaryTree.cpp)|Easy|
+|11|[Level order traversal in spiral form](https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab) | [C++](./Codes/BinaryTree/findSpiral.cpp)|Easy|
+|12|[Determine if Two Trees are Identical](https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab) | [C++](./Codes/BinaryTree/isIdentical.cpp)|Easy|
+|13|[Maximum path sum from any node](https://practice.geeksforgeeks.org/problems/maximum-path-sum-from-any-node/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab) | [C++](./Codes/BinaryTree/findMaxSum.cpp)|Medium|
 
 
 
