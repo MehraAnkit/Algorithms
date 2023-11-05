@@ -17,6 +17,13 @@
 |11|[Level order traversal in spiral form](https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab) | [C++](./Codes/BinaryTree/findSpiral.cpp)|Easy|
 |12|[Determine if Two Trees are Identical](https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab) | [C++](./Codes/BinaryTree/isIdentical.cpp)|Easy|
 |13|[Maximum path sum from any node](https://practice.geeksforgeeks.org/problems/maximum-path-sum-from-any-node/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab) | [C++](./Codes/BinaryTree/findMaxSum.cpp)|Medium|
+|14|[Symmetric Tree](https://practice.geeksforgeeks.org/problems/symmetric-tree/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab) | [C++](./Codes/BinaryTree/isSymmetric.cpp)|Easy|
+|15|[Left View of Binary Tree](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab) | [C++](./Codes/BinaryTree/leftView.cpp)|Easy|
+|16|[Right View of Binary Tree](https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab) | [C++](./Codes/BinaryTree/rightView.cpp)|Easy|
+|17|[Bottom View of Binary Tree](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab) | [C++](./Codes/BinaryTree/bottomView.cpp)|Medium|
+|18|[Top View of Binary Tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1) | [C++](./Codes/BinaryTree/topView.cpp)|Medium|
+|19|[Boundary Traversal of binary tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab) | [C++](./Codes/BinaryTree/boundary.cpp)|Medium|
+
 
 
 
