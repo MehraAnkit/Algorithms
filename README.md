@@ -23,6 +23,8 @@
 |17|[Bottom View of Binary Tree](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab) | [C++](./Codes/BinaryTree/bottomView.cpp)|Medium|
 |18|[Top View of Binary Tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1) | [C++](./Codes/BinaryTree/topView.cpp)|Medium|
 |19|[Boundary Traversal of binary tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab) | [C++](./Codes/BinaryTree/boundary.cpp)|Medium|
+|20|[Lowest Common Ancestor in a Binary Tree]([https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)) | [C++](./Codes/BinaryTree/lca.cpp)|Medium|
+
 
 
 
