@@ -25,6 +25,7 @@
 |19|[Boundary Traversal of binary tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab) | [C++](./Codes/BinaryTree/boundary.cpp)|Medium|
 |20|[Lowest Common Ancestor in a Binary Tree](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab) | [C++](./Codes/BinaryTree/lca.cpp)|Medium|
 |21|[Width of a Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [C++](./Codes/BinaryTree/widthOfBinaryTree.cpp)|Medium|
+|22|[Count Number of Nodes in a Binary Tree](https://practice.geeksforgeeks.org/problems/count-number-of-nodes-in-a-binary-tree/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab) | [C++](./Codes/BinaryTree/countNodes.cpp)|Medium|
 
 
 
