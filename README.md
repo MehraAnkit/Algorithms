@@ -26,6 +26,11 @@
 |20|[Lowest Common Ancestor in a Binary Tree](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab) | [C++](./Codes/BinaryTree/lca.cpp)|Medium|
 |21|[Width of a Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [C++](./Codes/BinaryTree/widthOfBinaryTree.cpp)|Medium|
 |22|[Count Number of Nodes in a Binary Tree](https://practice.geeksforgeeks.org/problems/count-number-of-nodes-in-a-binary-tree/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab) | [C++](./Codes/BinaryTree/countNodes.cpp)|Medium|
+|23|[Construct Tree from Inorder & Preorder](https://practice.geeksforgeeks.org/problems/construct-tree-1/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab) | [C++](./Codes/BinaryTree/preToIn.cpp)|Medium|
+|24|[Tree from Postorder and Inorder](https://practice.geeksforgeeks.org/problems/tree-from-postorder-and-inorder/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab) | [C++](./Codes/BinaryTree/postToIn.cpp)|Medium|
+
+
+
 
 
 
