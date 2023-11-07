@@ -29,6 +29,12 @@
 |23|[Construct Tree from Inorder & Preorder](https://practice.geeksforgeeks.org/problems/construct-tree-1/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab) | [C++](./Codes/BinaryTree/preToIn.cpp)|Medium|
 |24|[Tree from Postorder and Inorder](https://practice.geeksforgeeks.org/problems/tree-from-postorder-and-inorder/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab) | [C++](./Codes/BinaryTree/postToIn.cpp)|Medium|
 |25|[Serialize and Deserialize a Binary Tree](https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab) | [C++](./Codes/BinaryTree/serialize_deserialized.cpp)|Medium|
+|26|[Check for BST](https://practice.geeksforgeeks.org/problems/check-for-bst/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab) | [C++](./Codes/BinaryTree/isBST.cpp)|Easy|
+|27|[Insert a node in a BST](https://practice.geeksforgeeks.org/problems/insert-a-node-in-a-bst/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab) | [C++](./Codes/BinaryTree/insert.cpp)|Easy|
+|28|[Ceil in BST](https://www.geeksforgeeks.org/problems/implementing-ceil-in-bst/1) | [C++](./Codes/BinaryTree/findCeil.cpp)|Medium|
+|29|[Floor in BST](https://practice.geeksforgeeks.org/problems/floor-in-bst/1) | [C++](./Codes/BinaryTree/floor.cpp)|Medium|
+|30|[Search a node in BST](https://practice.geeksforgeeks.org/problems/search-a-node-in-bst/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab) | [C++](./Codes/BinaryTree/search.cpp)|Basic|
+
 
 
 
