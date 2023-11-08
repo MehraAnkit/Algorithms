@@ -34,6 +34,9 @@
 |28|[Ceil in BST](https://www.geeksforgeeks.org/problems/implementing-ceil-in-bst/1) | [C++](./Codes/BinaryTree/findCeil.cpp)|Medium|
 |29|[Floor in BST](https://practice.geeksforgeeks.org/problems/floor-in-bst/1) | [C++](./Codes/BinaryTree/floor.cpp)|Medium|
 |30|[Search a node in BST](https://practice.geeksforgeeks.org/problems/search-a-node-in-bst/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab) | [C++](./Codes/BinaryTree/search.cpp)|Basic|
+|31|[Lowest Common Ancestor in a BSTT](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1) | [C++](./Codes/BinaryTree/LCA.cpp)|Easy|
+|32|[k-th smallest element in BST](https://practice.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab) | [C++](./Codes/BinaryTree/KthSmallestElement.cpp)|Medium|
+|33|[Delete a node from BST](https://practice.geeksforgeeks.org/problems/delete-a-node-from-bst/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab) | [C++](./Codes/BinaryTree/deleteNode.cpp)|Medium|
 
 
 
