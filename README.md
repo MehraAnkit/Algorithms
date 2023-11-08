@@ -37,6 +37,9 @@
 |31|[Lowest Common Ancestor in a BSTT](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1) | [C++](./Codes/BinaryTree/LCA.cpp)|Easy|
 |32|[k-th smallest element in BST](https://practice.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab) | [C++](./Codes/BinaryTree/KthSmallestElement.cpp)|Medium|
 |33|[Delete a node from BST](https://practice.geeksforgeeks.org/problems/delete-a-node-from-bst/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab) | [C++](./Codes/BinaryTree/deleteNode.cpp)|Medium|
+|34|[Largest BST](https://practice.geeksforgeeks.org/problems/largest-bst/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=largest-bst) | [C++](./Codes/BinaryTree/largestBst.cpp)|Medium|
+|35|[Fixing Two nodes of a BST](https://practice.geeksforgeeks.org/problems/fixed-two-nodes-of-a-bst/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab) | [C++](./Codes/BinaryTree/correctBST.cpp)|Hard|
+|36|[Find a pair with given target in BST](https://practice.geeksforgeeks.org/problems/find-a-pair-with-given-target-in-bst/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab) | [C++](./Codes/BinaryTree/isPairPresent.cpp)|Medium|
 
 
 
