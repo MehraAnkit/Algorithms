@@ -1,5 +1,11 @@
 # Basic Algorithms
 
+### Linked List
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+
+
 ### Binary Tree
 
 | # | Title | Solution | Difficulty |
