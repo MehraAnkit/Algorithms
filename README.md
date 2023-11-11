@@ -4,6 +4,15 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1|[Merge two sorted linked lists](https://practice.geeksforgeeks.org/problems/merge-two-sorted-linked-lists/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab) | [C++](./Codes/LinkedList/sortedMerge.cpp)|Medium|
+|2|[Flattening a Linked List](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1) | [C++](./Codes/LinkedList/flatten.cpp)|Medium|
+|3|[Detect Loop in linked list](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab) | [C++](./Codes/LinkedList/detectLoop.cpp)|Easy|
+|4|[Find the first node of loop in linked list](https://practice.geeksforgeeks.org/problems/find-the-first-node-of-loop-in-linked-list--170645/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab) | [C++](./Codes/LinkedList/findFirstNode.cpp)|Easy|
+|5|[Rotate a Linked List](https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab) | [C++](./Codes/LinkedList/rotate.cpp)|Medium|
+|6|[Rotate List](https://leetcode.com/problems/rotate-list/description/) | [C++](./Codes/LinkedList/rotateRight.cpp)|Medium|
+|7|[Clone a linked list with next and random pointer](https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article) | [C++](./Codes/LinkedList/copyList.cpp)|Hard|
+|8|[LRU Cache](https://practice.geeksforgeeks.org/problems/lru-cache/1) | [C++](./Codes/LinkedList/LRUCache.cpp)|Hard|
+|9|[LFU Cache](https://practice.geeksforgeeks.org/problems/lfu-cache-1665050355/1) | [C++](./Codes/LinkedList/LFUCache.cpp)|Hard|
 
 
 
