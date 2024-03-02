@@ -1,5 +1,12 @@
 # Basic Algorithms
 
+### Recursion
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|1|[Merge Sort](https://www.geeksforgeeks.org/problems/merge-sort/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab) | [C++](./Codes/LinkedList/sortedMerge.cpp)|Medium|
+
+
 ### Linked List
 
 | # | Title | Solution | Difficulty |
